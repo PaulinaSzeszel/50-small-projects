@@ -71,7 +71,7 @@ h1 {
 .faq-toggle {
   background-color: transparent;
   border: 0;
-  border-radius: 50%;
+  border-radius: 50%; 
   cursor: pointer;
   display: flex;
   align-items: center;

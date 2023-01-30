@@ -24,5 +24,4 @@ Here you can find LIVE DEMO of all of projects.
 
 11th project - Event KeyCodes <a href="http://172.20.10.14:5500/11th-%20Event%20KeyCodes/index.html">LIVE DEMO</a>
 
-12th project - FAQ Collapse 
-
+12th project - FAQ Collapse
