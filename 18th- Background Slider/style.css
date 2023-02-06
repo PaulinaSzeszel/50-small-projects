@@ -13,14 +13,14 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-image: url('https://www.state.gov/wp-content/uploads/2018/11/Switzerland-2560x853.jpg');
+
   background-position: center center;
   background-size: cover;
   transition: 0.4s;
 }
 
 body::before {
-  content: ' ';
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
@@ -51,7 +51,7 @@ body::before {
   z-index: 1;
 }
 
-.slide-active {
+.slide.active {
   opacity: 1;
 }
 
